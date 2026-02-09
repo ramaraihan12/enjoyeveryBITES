@@ -81,13 +81,13 @@ const Header = () => {
             ))}
             <div className="pt-4 border-t border-purple/20">
               <a
-                href="https://www.instagram.com/bites.fruit"
+                href="https://www.instagram.com/bitesfruit_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 text-purple hover:text-light-orange transition-colors duration-200"
               >
                 <Instagram size={20} />
-                <span>@bites.fruit</span>
+                <span>@bitesfruit_</span>
               </a>
             </div>
           </div>

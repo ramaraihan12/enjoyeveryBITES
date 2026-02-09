@@ -36,12 +36,12 @@ const Footer = () => {
               <div className="flex items-start space-x-2">
                 <Instagram size={20} className="flex-shrink-0 mt-1" />
                 <a
-                  href="https://www.instagram.com/bites.fruit"
+                  href="https://www.instagram.com/bitesfruit_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-purple/80 hover:text-light-orange transition-colors duration-200"
                 >
-                  @bites.fruit
+                  @bitesfruit_
                 </a>
               </div>
               <div className="flex flex-col items-start space-y-2">
@@ -113,7 +113,7 @@ const Footer = () => {
             {/* Social Media Icons */}
             <div className="flex items-center space-x-4">
               <a
-                href="https://www.instagram.com/bites.fruit"
+                href="https://www.instagram.com/bitesfruit_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Follow us on Instagram"
